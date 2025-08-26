@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz
 - 👀 I’m interested in aprender novas linguagens de programação para me profissionalizar
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: através deste github :)
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Ainda não tem, mas logo mais quem sabe.
